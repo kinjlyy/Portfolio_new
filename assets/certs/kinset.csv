@@ -5,6 +5,10 @@ hey,Hey there! What would you like to know?
 good morning,Good morning! How can I assist you today?
 good evening,Good evening! Ask me anything about Kinjal.
 good afternoon,Good afternoon! How may I help you?
+ok,Ok! How can I assist you today?
+what,What can I help you with?
+can i talk with kinjal, you can't but I can answer your questions about Kinjal.
+how do you know kinjal, I am her assistant.
 who are you,I am a chatbot assistant built for Kinjal Gupta's portfolio website.
 what can you do,"I can answer questions about Kinjal's education, projects, skills, and achievements."
 thank you,You're welcome!
@@ -94,3 +98,4 @@ hacktolearn,Certificate of Participation in HacktoLearn.
 patent,Patent filed for Smart Security Ring for personal safety.
 innovation,Worked on an innovative IoT safety solution.
 recognition,Recognized through hackathons and certifications.
+who is kinjal,She is a B.Tech Computer Science student and AI enthusiast.
